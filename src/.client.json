@@ -1,0 +1,8 @@
+{
+  "moduleTargetOverrides": {
+    "b351377b-7826-49e1-b518-2d82998b1334": {
+      "type": "development",
+      "handle": "wangshan2022"
+    }
+  }
+}

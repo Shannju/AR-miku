@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencyId": "b351377b-7826-49e1-b518-2d82998b1334",
+  "moduleId": "1efd0d75-f0f3-4709-b042-4ef6166d0d4c",
+  "alias": "image-tracker",
+  "target": {
+    "type": "branch",
+    "branch": "master"
+  }
+}

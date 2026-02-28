@@ -1,0 +1,18 @@
+{
+  "imagePath": "image-targets/baji0_target.png",
+  "name": "baji0",
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 233,
+    "width": 1473,
+    "height": 1965,
+    "isRotated": false,
+    "originalWidth": 1941,
+    "originalHeight": 1965
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1749192069133,
+  "updated": 1749192069133
+}
